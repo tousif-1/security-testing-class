@@ -14,5 +14,3 @@ This repository is the example code and lab environment for the the Security Tes
   make get-gruyere
   make gruyere-start
 ```
-
-Thanks for watching! Star this repo if you like the course.
